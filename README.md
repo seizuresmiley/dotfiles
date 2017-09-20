@@ -13,5 +13,9 @@ Things you probably would need (or things I use)
   
   Polybar (bar)
   
+  The colors are pulled using wpgtk
+  
+  https://github.com/deviantfero/wpgtk
+  
 The distro I use is Manjaro with XFCE desktop environment.
   
