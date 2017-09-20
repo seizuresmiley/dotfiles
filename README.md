@@ -15,6 +15,9 @@ Things you probably would need (or things I use)
   
   The colors are pulled using wpgtk
   
+ The .Xres file includes the colors to be merged with .Xresources. I tend to keep it separate because it's easier to change 
+ later on, using wpgtk.
+  
   https://github.com/deviantfero/wpgtk
   
 The distro I use is Manjaro with XFCE desktop environment.
